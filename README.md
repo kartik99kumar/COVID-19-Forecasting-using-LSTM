@@ -4,7 +4,7 @@ LSTM or Long Short Term Memory is a type of Recurrent Neural Network that can en
 
 In this model, a 32 day window is used to forecast the values of total confirmed cases of COVID 19 in the next 7 days. The data used is upto 19 June 2020 and 7 days are used for validation while the rest are used for training. The results after running the model on the national Indian COVID 19 data and state data of Maharashtra, Gujarat and Delhi are represented as the mean absolute percentage error between the predicted and actual values for the 7 day prediction are listed as follows:
 
-1. India National Data- 0.3412573790016341
+1. India National Data- 0.31280820303655565
 2. Maharashtra State Data- 0.658542884147722
 3. Gujarat State Data- 1.0116811274795616
 4. Delhi State Data- 0.8153422630497
